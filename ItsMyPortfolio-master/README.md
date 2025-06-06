@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 - [Contact](#contact)
  
 ## About Me
-I am Uzma Farheen H I, a passionate Frontend Developer with 2 years of experience in Reactjs , Redux , javascript HTML , Css  . My journey in the tech world has been exciting, and this portfolio serves as a snapshot of my professional and personal growth.
+I am Jayanth kumar kathe, a passionate Frontend Developer with 3.5+ years of experience in Reactjs , Redux , javascript HTML , Css  . My journey in the tech world has been exciting, and this portfolio serves as a snapshot of my professional and personal growth.
  
  
 ## Skills
