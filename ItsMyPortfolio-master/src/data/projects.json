@@ -1,0 +1,26 @@
+[
+  {
+    "title": "E-Commerce Website",
+    "imageSrc": "Images/project.png",
+    "description": "Developed fully functional e-commerce website as a personal project showcasing proficiency in modern frontend technologies and best practices",
+    "skills": [ "React.js", "Context API", "TypeScript" , "React Hooks" , "React-Router"
+    ],
+    "demo": "https://uzma-ecommerce.netlify.app/"
+  },
+  {
+    "title": "Password Generator",
+    "imageSrc": "Images/project.png",
+    "description": "This is a project made to learn react  by building an Password Generator.",
+    "skills": ["React","HTML","CSS"],
+    "demo": "https://uzmapasswordgenerator.netlify.app/"
+  },
+  {
+    "title": "Tic Toc Teo",
+    "imageSrc": "Images/project.png",
+    "description": "This is a project made to learn react by making game tic toc teo.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://tic-toc-teo.netlify.app/"
+    
+  }
+ 
+]
