@@ -20,7 +20,7 @@ I specialize in the following technologies and skills:
 - ...
  
 ## Contact
-You can reach out to me via [email](mailto:your.kathejayanth630@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jayanth-kumar-234185290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
+You can reach out to me via [email](mailto:kathejayanth630@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jayanth-kumar-234185290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
  
 ---
  
